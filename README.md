@@ -19,8 +19,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eggberto_0/)
 
-
-![graphs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggberto0&theme=blue-green)
-![graphs](https://github-readme-stats.vercel.app/api?username=Eggberto0&theme=blue-green)
-![]()
+![graphs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggberto0&theme=dracula)
+![graphs](https://github-readme-stats.vercel.app/api?username=Eggberto0&theme=dracula)
