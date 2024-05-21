@@ -1,6 +1,3 @@
-![graphs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggberto0&theme=dracula)
-![graphs](https://github-readme-stats.vercel.app/api?username=Eggberto0&theme=dracula)
-
 ## Tecnologias mais usadas:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,3 +28,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eggberto_0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-roberto-ribeiro-0bb615286/)
+
+## Graphs:
+
+![graphs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggberto0&theme=dracula)
+![graphs](https://github-readme-stats.vercel.app/api?username=Eggberto0&theme=dracula)
