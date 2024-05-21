@@ -1,3 +1,6 @@
+# Erick's Profile
+Bem-vindos ao meu perfil do Github, onde guardo meu projetos pessoais e academicos.
+
 ## Tecnologias mais usadas:
 
 ### Linguagens:
